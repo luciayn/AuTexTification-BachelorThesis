@@ -1,0 +1,392 @@
+{
+    "ensemble00": {
+        "models": [
+            "wiki100"
+        ],
+        "metrics": {
+            "accuracy": 0.6645,
+            "f1": 0.69676,
+            "precision": 0.63946,
+            "recall": 0.76533
+        }
+    },
+    "ensemble01": {
+        "models": [
+            "twitter25"
+        ],
+        "metrics": {
+            "accuracy": 0.63215,
+            "f1": 0.69693,
+            "precision": 0.59559,
+            "recall": 0.83984
+        }
+    },
+    "ensemble02": {
+        "models": [
+            "wiki300"
+        ],
+        "metrics": {
+            "accuracy": 0.66302,
+            "f1": 0.69808,
+            "precision": 0.63603,
+            "recall": 0.77354
+        }
+    },
+    "ensemble03": {
+        "models": [
+            "albert_base_v2"
+        ],
+        "metrics": {
+            "accuracy": 0.92879,
+            "f1": 0.92928,
+            "precision": 0.92956,
+            "recall": 0.92901
+        }
+    },
+    "ensemble04": {
+        "models": [
+            "ai-generated-text-classification"
+        ],
+        "metrics": {
+            "accuracy": 0.91535,
+            "f1": 0.90992,
+            "precision": 0.98035,
+            "recall": 0.84893
+        }
+    },
+    "ensemble05": {
+        "models": [
+            "wiki100",
+            "twitter25"
+        ],
+        "metrics": {
+            "accuracy": 0.63215,
+            "f1": 0.69693,
+            "precision": 0.59559,
+            "recall": 0.83984
+        }
+    },
+    "ensemble06": {
+        "models": [
+            "wiki100",
+            "wiki300"
+        ],
+        "metrics": {
+            "accuracy": 0.66302,
+            "f1": 0.69808,
+            "precision": 0.63603,
+            "recall": 0.77354
+        }
+    },
+    "ensemble07": {
+        "models": [
+            "wiki100",
+            "albert_base_v2"
+        ],
+        "metrics": {
+            "accuracy": 0.92879,
+            "f1": 0.92928,
+            "precision": 0.92956,
+            "recall": 0.92901
+        }
+    },
+    "ensemble08": {
+        "models": [
+            "wiki100",
+            "ai-generated-text-classification"
+        ],
+        "metrics": {
+            "accuracy": 0.91535,
+            "f1": 0.90992,
+            "precision": 0.98035,
+            "recall": 0.84893
+        }
+    },
+    "ensemble09": {
+        "models": [
+            "twitter25",
+            "wiki300"
+        ],
+        "metrics": {
+            "accuracy": 0.66302,
+            "f1": 0.69808,
+            "precision": 0.63603,
+            "recall": 0.77354
+        }
+    },
+    "ensemble10": {
+        "models": [
+            "twitter25",
+            "albert_base_v2"
+        ],
+        "metrics": {
+            "accuracy": 0.92879,
+            "f1": 0.92928,
+            "precision": 0.92956,
+            "recall": 0.92901
+        }
+    },
+    "ensemble11": {
+        "models": [
+            "twitter25",
+            "ai-generated-text-classification"
+        ],
+        "metrics": {
+            "accuracy": 0.91535,
+            "f1": 0.90992,
+            "precision": 0.98035,
+            "recall": 0.84893
+        }
+    },
+    "ensemble12": {
+        "models": [
+            "wiki300",
+            "albert_base_v2"
+        ],
+        "metrics": {
+            "accuracy": 0.92879,
+            "f1": 0.92928,
+            "precision": 0.92956,
+            "recall": 0.92901
+        }
+    },
+    "ensemble13": {
+        "models": [
+            "wiki300",
+            "ai-generated-text-classification"
+        ],
+        "metrics": {
+            "accuracy": 0.91535,
+            "f1": 0.90992,
+            "precision": 0.98035,
+            "recall": 0.84893
+        }
+    },
+    "ensemble14": {
+        "models": [
+            "albert_base_v2",
+            "ai-generated-text-classification"
+        ],
+        "metrics": {
+            "accuracy": 0.92879,
+            "f1": 0.92928,
+            "precision": 0.92956,
+            "recall": 0.92901
+        }
+    },
+    "ensemble15": {
+        "models": [
+            "wiki100",
+            "twitter25",
+            "wiki300"
+        ],
+        "metrics": {
+            "accuracy": 0.66686,
+            "f1": 0.70967,
+            "precision": 0.6324,
+            "recall": 0.80845
+        }
+    },
+    "ensemble16": {
+        "models": [
+            "wiki100",
+            "twitter25",
+            "albert_base_v2"
+        ],
+        "metrics": {
+            "accuracy": 0.74797,
+            "f1": 0.77873,
+            "precision": 0.69798,
+            "recall": 0.88061
+        }
+    },
+    "ensemble17": {
+        "models": [
+            "wiki100",
+            "twitter25",
+            "ai-generated-text-classification"
+        ],
+        "metrics": {
+            "accuracy": 0.74398,
+            "f1": 0.77116,
+            "precision": 0.70125,
+            "recall": 0.85656
+        }
+    },
+    "ensemble18": {
+        "models": [
+            "wiki100",
+            "wiki300",
+            "albert_base_v2"
+        ],
+        "metrics": {
+            "accuracy": 0.74132,
+            "f1": 0.76475,
+            "precision": 0.7055,
+            "recall": 0.83485
+        }
+    },
+    "ensemble19": {
+        "models": [
+            "wiki100",
+            "wiki300",
+            "ai-generated-text-classification"
+        ],
+        "metrics": {
+            "accuracy": 0.74058,
+            "f1": 0.76076,
+            "precision": 0.71025,
+            "recall": 0.81901
+        }
+    },
+    "ensemble20": {
+        "models": [
+            "wiki100",
+            "albert_base_v2",
+            "ai-generated-text-classification"
+        ],
+        "metrics": {
+            "accuracy": 0.92938,
+            "f1": 0.9284,
+            "precision": 0.94858,
+            "recall": 0.90906
+        }
+    },
+    "ensemble21": {
+        "models": [
+            "twitter25",
+            "wiki300",
+            "albert_base_v2"
+        ],
+        "metrics": {
+            "accuracy": 0.74945,
+            "f1": 0.78054,
+            "precision": 0.69831,
+            "recall": 0.88472
+        }
+    },
+    "ensemble22": {
+        "models": [
+            "twitter25",
+            "wiki300",
+            "ai-generated-text-classification"
+        ],
+        "metrics": {
+            "accuracy": 0.7456,
+            "f1": 0.77348,
+            "precision": 0.70117,
+            "recall": 0.86242
+        }
+    },
+    "ensemble23": {
+        "models": [
+            "twitter25",
+            "albert_base_v2",
+            "ai-generated-text-classification"
+        ],
+        "metrics": {
+            "accuracy": 0.9316,
+            "f1": 0.9316,
+            "precision": 0.93839,
+            "recall": 0.9249
+        }
+    },
+    "ensemble24": {
+        "models": [
+            "wiki300",
+            "albert_base_v2",
+            "ai-generated-text-classification"
+        ],
+        "metrics": {
+            "accuracy": 0.92687,
+            "f1": 0.92595,
+            "precision": 0.94475,
+            "recall": 0.90789
+        }
+    },
+    "ensemble25": {
+        "models": [
+            "wiki100",
+            "twitter25",
+            "wiki300",
+            "albert_base_v2"
+        ],
+        "metrics": {
+            "accuracy": 0.78594,
+            "f1": 0.80826,
+            "precision": 0.73626,
+            "recall": 0.89586
+        }
+    },
+    "ensemble26": {
+        "models": [
+            "wiki100",
+            "twitter25",
+            "wiki300",
+            "ai-generated-text-classification"
+        ],
+        "metrics": {
+            "accuracy": 0.78165,
+            "f1": 0.79957,
+            "precision": 0.74351,
+            "recall": 0.86477
+        }
+    },
+    "ensemble27": {
+        "models": [
+            "wiki100",
+            "twitter25",
+            "albert_base_v2",
+            "ai-generated-text-classification"
+        ],
+        "metrics": {
+            "accuracy": 0.93249,
+            "f1": 0.93271,
+            "precision": 0.93643,
+            "recall": 0.92901
+        }
+    },
+    "ensemble28": {
+        "models": [
+            "wiki100",
+            "wiki300",
+            "albert_base_v2",
+            "ai-generated-text-classification"
+        ],
+        "metrics": {
+            "accuracy": 0.9285,
+            "f1": 0.9281,
+            "precision": 0.94011,
+            "recall": 0.9164
+        }
+    },
+    "ensemble29": {
+        "models": [
+            "twitter25",
+            "wiki300",
+            "albert_base_v2",
+            "ai-generated-text-classification"
+        ],
+        "metrics": {
+            "accuracy": 0.93116,
+            "f1": 0.93137,
+            "precision": 0.93523,
+            "recall": 0.92754
+        }
+    },
+    "ensemble30": {
+        "models": [
+            "wiki100",
+            "twitter25",
+            "wiki300",
+            "albert_base_v2",
+            "ai-generated-text-classification"
+        ],
+        "metrics": {
+            "accuracy": 0.78505,
+            "f1": 0.8053,
+            "precision": 0.7404,
+            "recall": 0.88266
+        }
+    }
+}

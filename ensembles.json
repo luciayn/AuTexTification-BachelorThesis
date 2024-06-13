@@ -1,0 +1,392 @@
+{
+    "ensemble00": {
+        "models": [
+            "albert_base_v2"
+        ],
+        "metrics": {
+            "accuracy": 0.92879,
+            "f1": 0.92928,
+            "precision": 0.92956,
+            "recall": 0.92901
+        }
+    },
+    "ensemble01": {
+        "models": [
+            "ai-generated-text-classification"
+        ],
+        "metrics": {
+            "accuracy": 0.91535,
+            "f1": 0.90992,
+            "precision": 0.98035,
+            "recall": 0.84893
+        }
+    },
+    "ensemble02": {
+        "models": [
+            "openai-community_roberta-base-openai-detector"
+        ],
+        "metrics": {
+            "accuracy": 0.91535,
+            "f1": 0.90992,
+            "precision": 0.98035,
+            "recall": 0.84893
+        }
+    },
+    "ensemble03": {
+        "models": [
+            "distilbert_base_uncased"
+        ],
+        "metrics": {
+            "accuracy": 0.91343,
+            "f1": 0.9096,
+            "precision": 0.95932,
+            "recall": 0.86477
+        }
+    },
+    "ensemble04": {
+        "models": [
+            "human-vs-llm-generated-text-detection-distilbert"
+        ],
+        "metrics": {
+            "accuracy": 0.91668,
+            "f1": 0.91312,
+            "precision": 0.9614,
+            "recall": 0.86946
+        }
+    },
+    "ensemble05": {
+        "models": [
+            "albert_base_v2",
+            "ai-generated-text-classification"
+        ],
+        "metrics": {
+            "accuracy": 0.92879,
+            "f1": 0.92928,
+            "precision": 0.92956,
+            "recall": 0.92901
+        }
+    },
+    "ensemble06": {
+        "models": [
+            "albert_base_v2",
+            "openai-community_roberta-base-openai-detector"
+        ],
+        "metrics": {
+            "accuracy": 0.92879,
+            "f1": 0.92928,
+            "precision": 0.92956,
+            "recall": 0.92901
+        }
+    },
+    "ensemble07": {
+        "models": [
+            "albert_base_v2",
+            "distilbert_base_uncased"
+        ],
+        "metrics": {
+            "accuracy": 0.92879,
+            "f1": 0.92928,
+            "precision": 0.92956,
+            "recall": 0.92901
+        }
+    },
+    "ensemble08": {
+        "models": [
+            "albert_base_v2",
+            "human-vs-llm-generated-text-detection-distilbert"
+        ],
+        "metrics": {
+            "accuracy": 0.92879,
+            "f1": 0.92928,
+            "precision": 0.92956,
+            "recall": 0.92901
+        }
+    },
+    "ensemble09": {
+        "models": [
+            "ai-generated-text-classification",
+            "openai-community_roberta-base-openai-detector"
+        ],
+        "metrics": {
+            "accuracy": 0.91535,
+            "f1": 0.90992,
+            "precision": 0.98035,
+            "recall": 0.84893
+        }
+    },
+    "ensemble10": {
+        "models": [
+            "ai-generated-text-classification",
+            "distilbert_base_uncased"
+        ],
+        "metrics": {
+            "accuracy": 0.91535,
+            "f1": 0.90992,
+            "precision": 0.98035,
+            "recall": 0.84893
+        }
+    },
+    "ensemble11": {
+        "models": [
+            "ai-generated-text-classification",
+            "human-vs-llm-generated-text-detection-distilbert"
+        ],
+        "metrics": {
+            "accuracy": 0.91668,
+            "f1": 0.91312,
+            "precision": 0.9614,
+            "recall": 0.86946
+        }
+    },
+    "ensemble12": {
+        "models": [
+            "openai-community_roberta-base-openai-detector",
+            "distilbert_base_uncased"
+        ],
+        "metrics": {
+            "accuracy": 0.91535,
+            "f1": 0.90992,
+            "precision": 0.98035,
+            "recall": 0.84893
+        }
+    },
+    "ensemble13": {
+        "models": [
+            "openai-community_roberta-base-openai-detector",
+            "human-vs-llm-generated-text-detection-distilbert"
+        ],
+        "metrics": {
+            "accuracy": 0.91668,
+            "f1": 0.91312,
+            "precision": 0.9614,
+            "recall": 0.86946
+        }
+    },
+    "ensemble14": {
+        "models": [
+            "distilbert_base_uncased",
+            "human-vs-llm-generated-text-detection-distilbert"
+        ],
+        "metrics": {
+            "accuracy": 0.91668,
+            "f1": 0.91312,
+            "precision": 0.9614,
+            "recall": 0.86946
+        }
+    },
+    "ensemble15": {
+        "models": [
+            "albert_base_v2",
+            "ai-generated-text-classification",
+            "openai-community_roberta-base-openai-detector"
+        ],
+        "metrics": {
+            "accuracy": 0.91535,
+            "f1": 0.90992,
+            "precision": 0.98035,
+            "recall": 0.84893
+        }
+    },
+    "ensemble16": {
+        "models": [
+            "albert_base_v2",
+            "ai-generated-text-classification",
+            "distilbert_base_uncased"
+        ],
+        "metrics": {
+            "accuracy": 0.93234,
+            "f1": 0.93029,
+            "precision": 0.96678,
+            "recall": 0.89645
+        }
+    },
+    "ensemble17": {
+        "models": [
+            "albert_base_v2",
+            "ai-generated-text-classification",
+            "human-vs-llm-generated-text-detection-distilbert"
+        ],
+        "metrics": {
+            "accuracy": 0.93396,
+            "f1": 0.93202,
+            "precision": 0.96778,
+            "recall": 0.8988
+        }
+    },
+    "ensemble18": {
+        "models": [
+            "albert_base_v2",
+            "openai-community_roberta-base-openai-detector",
+            "distilbert_base_uncased"
+        ],
+        "metrics": {
+            "accuracy": 0.93234,
+            "f1": 0.93029,
+            "precision": 0.96678,
+            "recall": 0.89645
+        }
+    },
+    "ensemble19": {
+        "models": [
+            "albert_base_v2",
+            "openai-community_roberta-base-openai-detector",
+            "human-vs-llm-generated-text-detection-distilbert"
+        ],
+        "metrics": {
+            "accuracy": 0.93396,
+            "f1": 0.93202,
+            "precision": 0.96778,
+            "recall": 0.8988
+        }
+    },
+    "ensemble20": {
+        "models": [
+            "albert_base_v2",
+            "distilbert_base_uncased",
+            "human-vs-llm-generated-text-detection-distilbert"
+        ],
+        "metrics": {
+            "accuracy": 0.92672,
+            "f1": 0.92469,
+            "precision": 0.95845,
+            "recall": 0.89322
+        }
+    },
+    "ensemble21": {
+        "models": [
+            "ai-generated-text-classification",
+            "openai-community_roberta-base-openai-detector",
+            "distilbert_base_uncased"
+        ],
+        "metrics": {
+            "accuracy": 0.91535,
+            "f1": 0.90992,
+            "precision": 0.98035,
+            "recall": 0.84893
+        }
+    },
+    "ensemble22": {
+        "models": [
+            "ai-generated-text-classification",
+            "openai-community_roberta-base-openai-detector",
+            "human-vs-llm-generated-text-detection-distilbert"
+        ],
+        "metrics": {
+            "accuracy": 0.91535,
+            "f1": 0.90992,
+            "precision": 0.98035,
+            "recall": 0.84893
+        }
+    },
+    "ensemble23": {
+        "models": [
+            "ai-generated-text-classification",
+            "distilbert_base_uncased",
+            "human-vs-llm-generated-text-detection-distilbert"
+        ],
+        "metrics": {
+            "accuracy": 0.92274,
+            "f1": 0.91925,
+            "precision": 0.97034,
+            "recall": 0.87328
+        }
+    },
+    "ensemble24": {
+        "models": [
+            "openai-community_roberta-base-openai-detector",
+            "distilbert_base_uncased",
+            "human-vs-llm-generated-text-detection-distilbert"
+        ],
+        "metrics": {
+            "accuracy": 0.92274,
+            "f1": 0.91925,
+            "precision": 0.97034,
+            "recall": 0.87328
+        }
+    },
+    "ensemble25": {
+        "models": [
+            "albert_base_v2",
+            "ai-generated-text-classification",
+            "openai-community_roberta-base-openai-detector",
+            "distilbert_base_uncased"
+        ],
+        "metrics": {
+            "accuracy": 0.93234,
+            "f1": 0.93029,
+            "precision": 0.96678,
+            "recall": 0.89645
+        }
+    },
+    "ensemble26": {
+        "models": [
+            "albert_base_v2",
+            "ai-generated-text-classification",
+            "openai-community_roberta-base-openai-detector",
+            "human-vs-llm-generated-text-detection-distilbert"
+        ],
+        "metrics": {
+            "accuracy": 0.93396,
+            "f1": 0.93202,
+            "precision": 0.96778,
+            "recall": 0.8988
+        }
+    },
+    "ensemble27": {
+        "models": [
+            "albert_base_v2",
+            "ai-generated-text-classification",
+            "distilbert_base_uncased",
+            "human-vs-llm-generated-text-detection-distilbert"
+        ],
+        "metrics": {
+            "accuracy": 0.93515,
+            "f1": 0.93376,
+            "precision": 0.96147,
+            "recall": 0.9076
+        }
+    },
+    "ensemble28": {
+        "models": [
+            "albert_base_v2",
+            "openai-community_roberta-base-openai-detector",
+            "distilbert_base_uncased",
+            "human-vs-llm-generated-text-detection-distilbert"
+        ],
+        "metrics": {
+            "accuracy": 0.93515,
+            "f1": 0.93376,
+            "precision": 0.96147,
+            "recall": 0.9076
+        }
+    },
+    "ensemble29": {
+        "models": [
+            "ai-generated-text-classification",
+            "openai-community_roberta-base-openai-detector",
+            "distilbert_base_uncased",
+            "human-vs-llm-generated-text-detection-distilbert"
+        ],
+        "metrics": {
+            "accuracy": 0.92274,
+            "f1": 0.91925,
+            "precision": 0.97034,
+            "recall": 0.87328
+        }
+    },
+    "ensemble30": {
+        "models": [
+            "albert_base_v2",
+            "ai-generated-text-classification",
+            "openai-community_roberta-base-openai-detector",
+            "distilbert_base_uncased",
+            "human-vs-llm-generated-text-detection-distilbert"
+        ],
+        "metrics": {
+            "accuracy": 0.93116,
+            "f1": 0.92851,
+            "precision": 0.9733,
+            "recall": 0.88765
+        }
+    }
+}
